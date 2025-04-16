@@ -1,0 +1,19 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore build artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Ignore environment files
+.env
+.venv/
+dist/
+build/
+*.spec
+*.exe
+__pycache__/
+

@@ -1,0 +1,7 @@
+playwright
+openpyxl
+yfinance
+tabulate
+
+
+
